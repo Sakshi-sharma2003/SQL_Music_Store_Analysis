@@ -48,13 +48,22 @@ Return the Name and Milliseconds for each track. Order by the song length with t
  Create a simple report or presentation to share what you found, using charts or tables to explain your results clearly.	
 
 ##Dashboard
-<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/11a720ff-41f7-4bd3-9520-fb0d6bc95aa7" />
+![Uploading MusicDatabaseSchema.png…](https://github.com/Sakshi-sharma2003/SQL_Music_Store_Analysis/blob/main/MusicDatabaseSchema.png)
 
+## Project Insight
+-Top-Selling Genre
+ Rock music is the most sold genre in the store.
+-Best Customer
+ One customer (e.g., from the USA) spent the most money on music purchases.
+-Most Popular Artist
+ A specific artist (e.g., AC/DC) has the highest number of track sales.
+-Sales by Country
+ The USA brings in the highest revenue, followed by countries like Canada and France.
+-Monthly Sales Trend
+ Sales are higher in certain months, showing a pattern that could help with planning promotions.
 
-
-
-
-
+## Final Conclusion:
+The analysis shows that Rock is the most popular music genre, and most sales come from the USA. A few top customers are responsible for a big part of the revenue. Artists like AC/DC have the highest track sales. These insights can help the store focus on popular genres, target high-value customers, and plan better marketing strategies based on sales trends.
 
 
 
